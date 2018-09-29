@@ -1,0 +1,83 @@
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.Cache
+C:\Users\Mudassar\Desktop\Dropbox\Samples\Windows\WindowsService\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csprojResolveAssemblyReference.cache
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csprojResolveAssemblyReference.cache
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+D:\Dropbox\Samples\Windows\WindowsService_SendEmail\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.Cache
+E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+E:\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+E:\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+E:\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+E:\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.Cache
+E:\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csprojResolveAssemblyReference.cache
+D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+D:\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+D:\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+D:\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+D:\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.Cache
+C:\Users\Milton.T\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+C:\Users\Milton.T\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+C:\Users\Milton.T\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+C:\Users\Milton.T\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+C:\Users\Milton.T\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+C:\Users\Milton.T\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+C:\Users\Milton.T\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.Cache
+E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+E:\Windows Services for sending emails\new one WS\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+E:\Windows Services for sending emails\new one WS\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.Cache
+E:\Windows Services for sending emails\new one WS\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+E:\Windows Services for sending emails\new one WS\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+C:\Users\lovel_000\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+C:\Users\lovel_000\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.Cache
+C:\Users\lovel_000\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csprojResolveAssemblyReference.cache
+C:\Users\lovel_000\Desktop\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+C:\Users\lovel_000\Desktop\WindowsSchedule\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\WindowsSchedule\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\WindowsSchedule\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csprojResolveAssemblyReference.cache
+C:\Users\lovel_000\Desktop\WindowsSchedule\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+C:\Users\lovel_000\Desktop\WindowsSchedule\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.Cache
+F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+F:\New folder\WindowsSchedule\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+F:\New folder\WindowsSchedule\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+F:\New folder\WindowsSchedule\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+F:\New folder\WindowsSchedule\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.Cache
+E:\Windows Services\Test\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+E:\Windows Services\Test\WindowsSchedule\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+E:\Windows Services\Test\WindowsSchedule\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+E:\Windows Services\Test\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+E:\Windows Services\Test\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+E:\Windows Services\Test\WindowsSchedule\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+E:\Windows Services\Test\WindowsSchedule\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.Cache
+D:\Watchnet Window Services\Test Services\Payment Schedule Test Service\bin\Debug\WindowsServiceCS.exe.config
+D:\Watchnet Window Services\Test Services\Payment Schedule Test Service\bin\Debug\WindowsServiceCS.exe
+D:\Watchnet Window Services\Test Services\Payment Schedule Test Service\bin\Debug\WindowsServiceCS.pdb
+D:\Watchnet Window Services\Test Services\Payment Schedule Test Service\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+D:\Watchnet Window Services\Test Services\Payment Schedule Test Service\obj\x86\Debug\WindowsServiceCS.csproj.GenerateResource.cache
+D:\Watchnet Window Services\Test Services\Payment Schedule Test Service\obj\x86\Debug\WindowsServiceCS.csproj.CoreCompileInputs.cache
+D:\Watchnet Window Services\Test Services\Payment Schedule Test Service\obj\x86\Debug\WindowsServiceCS.exe
+D:\Watchnet Window Services\Test Services\Payment Schedule Test Service\obj\x86\Debug\WindowsServiceCS.pdb

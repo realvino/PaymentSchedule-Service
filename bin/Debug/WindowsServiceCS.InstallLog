@@ -1,0 +1,2074 @@
+﻿Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'e:\WindowsServiceCS\bin\debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = e:\WindowsServiceCS\bin\debug\WindowsServiceCS.InstallLog
+   assemblypath = e:\WindowsServiceCS\bin\debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'e:\WindowsServiceCS\bin\debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = e:\WindowsServiceCS\bin\debug\WindowsServiceCS.InstallLog
+   assemblypath = e:\WindowsServiceCS\bin\debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'e:\WindowsServiceCS\bin\debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = e:\WindowsServiceCS\bin\debug\WindowsServiceCS.InstallLog
+   assemblypath = e:\WindowsServiceCS\bin\debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'e:\WindowsServiceCS\bin\debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = e:\WindowsServiceCS\bin\debug\WindowsServiceCS.InstallLog
+   assemblypath = e:\WindowsServiceCS\bin\debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'e:\WindowsServiceCS\bin\debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = e:\WindowsServiceCS\bin\debug\WindowsServiceCS.InstallLog
+   assemblypath = e:\WindowsServiceCS\bin\debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'e:\WindowsServiceCS\bin\debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = e:\WindowsServiceCS\bin\debug\WindowsServiceCS.InstallLog
+   assemblypath = e:\WindowsServiceCS\bin\debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source SimpleService.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SimpleService...
+Creating EventLog source SimpleService in log Application...
+Rolling back assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source SimpleService.
+Uninstalling assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SimpleService.
+Service SimpleService is being removed from the system...
+Service SimpleService was successfully removed from the system.
+Installing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service MailService...
+Creating EventLog source MailService in log Application...
+Rolling back assembly 'D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source MailService.
+Uninstalling assembly 'D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source MailService.
+Service MailService is being removed from the system...
+Service MailService was successfully removed from the system.
+Installing assembly 'D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service MailService...
+Service MailService has been successfully installed.
+Creating EventLog source MailService in log Application...
+Committing assembly 'D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'c:\windowsserviceCS\bin\debug\WindowsserviceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\windowsserviceCS\bin\debug\WindowsserviceCS.InstallLog
+   assemblypath = c:\windowsserviceCS\bin\debug\WindowsserviceCS.exe
+Installing service MailService...
+Service MailService has been successfully installed.
+Creating EventLog source MailService in log Application...
+Committing assembly 'c:\windowsserviceCS\bin\debug\WindowsserviceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\windowsserviceCS\bin\debug\WindowsserviceCS.InstallLog
+   assemblypath = c:\windowsserviceCS\bin\debug\WindowsserviceCS.exe
+Installing assembly 'c:\Service\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Service\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = c:\Service\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'c:\Service\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Service\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = c:\Service\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SalesPersonService.
+Service SalesPersonService is being removed from the system...
+Service SalesPersonService was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SalesPersonService.
+Service SalesPersonService is being removed from the system...
+Service SalesPersonService was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SalesPersonService.
+Service SalesPersonService is being removed from the system...
+Service SalesPersonService was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SalesPersonService.
+Service SalesPersonService is being removed from the system...
+Service SalesPersonService was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SalesPersonService.
+Service SalesPersonService is being removed from the system...
+Service SalesPersonService was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SalesPersonService.
+Service SalesPersonService is being removed from the system...
+Service SalesPersonService was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SalesPersonService.
+Service SalesPersonService is being removed from the system...
+Service SalesPersonService was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SalesPersonService.
+Service SalesPersonService is being removed from the system...
+Service SalesPersonService was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SalesPersonService.
+Service SalesPersonService is being removed from the system...
+Service SalesPersonService was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SalesPersonService.
+Service SalesPersonService is being removed from the system...
+Service SalesPersonService was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Creating EventLog source SalesPersonService in log Application...
+Rolling back assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source SalesPersonService.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Creating EventLog source SalesPersonService in log Application...
+Rolling back assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source SalesPersonService.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Creating EventLog source SalesPersonService in log Application...
+Rolling back assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source SalesPersonService.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Creating EventLog source SalesPersonService in log Application...
+Rolling back assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source SalesPersonService.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Creating EventLog source SalesPersonService in log Application...
+Rolling back assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source SalesPersonService.
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SalesPersonService.
+Service SalesPersonService is being removed from the system...
+Service SalesPersonService was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SalesPersonService.
+Service SalesPersonService is being removed from the system...
+Service SalesPersonService was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SalesPersonService...
+Service SalesPersonService has been successfully installed.
+Creating EventLog source SalesPersonService in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source SalesPersonService.
+Service SalesPersonService is being removed from the system...
+Service SalesPersonService was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = E:\Windows Services for sending emails\new one WS\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Uninstalling assembly 'C:\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'C:\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'C:\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\WindowsService\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Warning: The source ADLER Schedule Mail Service is not registered on the local machine.
+Service ADLER Schedule Mail Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Warning: The source ADLER Schedule Mail Service is not registered on the local machine.
+Service ADLER Schedule Mail Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Warning: The source ADLER Schedule Mail Service is not registered on the local machine.
+Service ADLER Schedule Mail Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Warning: The source ADLER Schedule Mail Service is not registered on the local machine.
+Service ADLER Schedule Mail Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Warning: The source ADLER Schedule Mail Service is not registered on the local machine.
+Service ADLER Schedule Mail Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Warning: The source ADLER Schedule Mail Service is not registered on the local machine.
+Service ADLER Schedule Mail Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Warning: The source ADLER Schedule Mail Service is not registered on the local machine.
+Service ADLER Schedule Mail Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Warning: The source ADLER Schedule Mail Service is not registered on the local machine.
+Service ADLER Schedule Mail Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Restoring event log to previous state for source ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Attempt to stop service ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Attempt to stop service ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Rolling back assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Warning: The source ADLER Schedule Mail Service is not registered on the local machine.
+Service ADLER Schedule Mail Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Attempt to stop service ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Attempt to stop service ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Attempt to stop service ADLER Schedule Mail Service.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Service ADLER Schedule Mail Service is being removed from the system...
+Service ADLER Schedule Mail Service was successfully removed from the system.
+Attempt to stop service ADLER Schedule Mail Service.
+Uninstalling assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source ADLER Schedule Mail Service.
+Warning: The source ADLER Schedule Mail Service is not registered on the local machine.
+Service ADLER Schedule Mail Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service ADLER Schedule Mail Service...
+Service ADLER Schedule Mail Service has been successfully installed.
+Creating EventLog source ADLER Schedule Mail Service in log Application...
+Committing assembly 'C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Rolling back assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Installing service WatchNet ProjectSchedule Mail Service Live...
+Service WatchNet ProjectSchedule Mail Service Live has been successfully installed.
+Creating EventLog source WatchNet ProjectSchedule Mail Service Live in log Application...
+Committing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Uninstalling assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source WatchNet ProjectSchedule Mail Service Live.
+Service WatchNet ProjectSchedule Mail Service Live is being removed from the system...
+Service WatchNet ProjectSchedule Mail Service Live was successfully removed from the system.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Installing service WatchNet ProjectSchedule Mail Service Live...
+Service WatchNet ProjectSchedule Mail Service Live has been successfully installed.
+Creating EventLog source WatchNet ProjectSchedule Mail Service Live in log Application...
+Committing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Uninstalling assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source WatchNet ProjectSchedule Mail Service Live.
+Service WatchNet ProjectSchedule Mail Service Live is being removed from the system...
+Service WatchNet ProjectSchedule Mail Service Live was successfully removed from the system.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Installing service WatchNet ProjectSchedule Mail Service Live...
+Service WatchNet ProjectSchedule Mail Service Live has been successfully installed.
+Creating EventLog source WatchNet ProjectSchedule Mail Service Live in log Application...
+Committing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Uninstalling assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Removing EventLog source WatchNet ProjectSchedule Mail Service Live.
+Service WatchNet ProjectSchedule Mail Service Live is being removed from the system...
+Service WatchNet ProjectSchedule Mail Service Live was successfully removed from the system.
+Installing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
+Installing service WatchNet ProjectSchedule Mail Service Live...
+Service WatchNet ProjectSchedule Mail Service Live has been successfully installed.
+Creating EventLog source WatchNet ProjectSchedule Mail Service Live in log Application...
+Committing assembly 'F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = F:\New folder\WindowsSchedule\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+   logtoconsole = 
